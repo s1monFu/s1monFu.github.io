@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toefl on Simon(Hongyu) Fu</title>
-    <link>https://s1monfu.github.io/tags/toefl/</link>
+    <link>http://localhost:1313/tags/toefl/</link>
     <description>Recent content in Toefl on Simon(Hongyu) Fu</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Fri, 14 Jun 2024 18:24:17 +0800</lastBuildDate>
-    <atom:link href="https://s1monfu.github.io/tags/toefl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/toefl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey and Tips on Scoring TOEFL 119/120: An International Student&#39;s Perspective</title>
-      <link>https://s1monfu.github.io/posts/toefl/</link>
+      <link>http://localhost:1313/posts/toefl/</link>
       <pubDate>Fri, 14 Jun 2024 18:24:17 +0800</pubDate>
-      <guid>https://s1monfu.github.io/posts/toefl/</guid>
+      <guid>http://localhost:1313/posts/toefl/</guid>
       <description>How to Painless Learn TOEFL and Score 119 out of 120 A few months ago, I took the TOEFL test and achieved a remarkable score of 119 out of 120, all without intensive study specifically for the exam.</description>
     </item>
   </channel>

@@ -5,4 +5,4 @@ type: taxonomies
 layout: "home"
 ---
 
-Our Categories Collection
+Search my posts by categories

@@ -16,16 +16,10 @@ Disallow: /tags/toefl/
 
 Disallow: /
 
-Disallow: /tags/hello/
-
-Disallow: /categories/hello/
+Disallow: /tags/markdown/
 
 Disallow: /posts/markdown-cheat-sheet/
 
-Disallow: /tags/whatsapp/
-
-Disallow: /categories/css/
-
-Disallow: /categories/javascript/
+Disallow: /categories/tutorials/
 
 Disallow: /categories/uncategories/
