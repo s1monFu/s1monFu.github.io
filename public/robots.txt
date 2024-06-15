@@ -2,11 +2,17 @@ User-agent: *
 
 Disallow: /categories/
 
+Disallow: /posts/toefl/
+
 Disallow: /posts/
 
-Disallow: /categories/sem-categoria/
+Disallow: /tags/study/
 
-Disallow: /posts/test/
+Disallow: /categories/study-tips/
+
+Disallow: /tags/
+
+Disallow: /tags/toefl/
 
 Disallow: /
 
@@ -15,8 +21,6 @@ Disallow: /tags/hello/
 Disallow: /categories/hello/
 
 Disallow: /posts/markdown-cheat-sheet/
-
-Disallow: /tags/
 
 Disallow: /tags/whatsapp/
 
