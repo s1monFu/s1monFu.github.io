@@ -2,39 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://s1monfu.github.io/categories/</loc>
+    <lastmod>2024-06-20T14:49:39+08:00</lastmod>
+  </url><url>
+    <loc>https://s1monfu.github.io/posts/</loc>
+    <lastmod>2024-06-20T14:49:39+08:00</lastmod>
+  </url><url>
+    <loc>https://s1monfu.github.io/tags/rag/</loc>
+    <lastmod>2024-06-20T14:49:39+08:00</lastmod>
+  </url><url>
+    <loc>https://s1monfu.github.io/posts/rag/</loc>
+    <lastmod>2024-06-20T14:49:39+08:00</lastmod>
+  </url><url>
+    <loc>https://s1monfu.github.io/tags/</loc>
+    <lastmod>2024-06-20T14:49:39+08:00</lastmod>
+  </url><url>
+    <loc>https://s1monfu.github.io/categories/tutorials/</loc>
+    <lastmod>2024-06-20T14:49:39+08:00</lastmod>
+  </url><url>
+    <loc>https://s1monfu.github.io/</loc>
+    <lastmod>2024-06-20T14:49:39+08:00</lastmod>
+  </url><url>
+    <loc>https://s1monfu.github.io/posts/toefl/</loc>
     <lastmod>2024-06-14T18:24:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/toefl/</loc>
+    <loc>https://s1monfu.github.io/tags/study/</loc>
     <lastmod>2024-06-14T18:24:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://s1monfu.github.io/categories/study-tips/</loc>
     <lastmod>2024-06-14T18:24:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/study/</loc>
+    <loc>https://s1monfu.github.io/tags/toefl/</loc>
     <lastmod>2024-06-14T18:24:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/study-tips/</loc>
-    <lastmod>2024-06-14T18:24:17+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-14T18:24:17+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/toefl/</loc>
-    <lastmod>2024-06-14T18:24:17+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-14T18:24:17+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://s1monfu.github.io/tags/markdown/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/markdown-cheat-sheet/</loc>
+    <loc>https://s1monfu.github.io/posts/markdown-cheat-sheet/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tutorials/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/uncategories/</loc>
+    <loc>https://s1monfu.github.io/categories/uncategories/</loc>
   </url>
 </urlset>

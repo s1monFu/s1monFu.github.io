@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Simon(Hongyu) Fu</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://s1monfu.github.io/tags/</link>
     <description>Recent content in Tags on Simon(Hongyu) Fu</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Fri, 14 Jun 2024 18:24:17 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 14:49:39 +0800</lastBuildDate>
+    <atom:link href="https://s1monfu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAG</title>
+      <link>https://s1monfu.github.io/tags/rag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://s1monfu.github.io/tags/rag/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Study</title>
-      <link>http://localhost:1313/tags/study/</link>
+      <link>https://s1monfu.github.io/tags/study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/study/</guid>
+      <guid>https://s1monfu.github.io/tags/study/</guid>
       <description></description>
     </item>
     <item>
       <title>Toefl</title>
-      <link>http://localhost:1313/tags/toefl/</link>
+      <link>https://s1monfu.github.io/tags/toefl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/toefl/</guid>
+      <guid>https://s1monfu.github.io/tags/toefl/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://s1monfu.github.io/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://s1monfu.github.io/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>

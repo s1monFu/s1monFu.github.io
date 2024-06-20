@@ -2,24 +2,28 @@ User-agent: *
 
 Disallow: /categories/
 
-Disallow: /posts/toefl/
-
 Disallow: /posts/
+
+Disallow: /tags/rag/
+
+Disallow: /posts/rag/
+
+Disallow: /tags/
+
+Disallow: /categories/tutorials/
+
+Disallow: /
+
+Disallow: /posts/toefl/
 
 Disallow: /tags/study/
 
 Disallow: /categories/study-tips/
 
-Disallow: /tags/
-
 Disallow: /tags/toefl/
-
-Disallow: /
 
 Disallow: /tags/markdown/
 
 Disallow: /posts/markdown-cheat-sheet/
-
-Disallow: /categories/tutorials/
 
 Disallow: /categories/uncategories/
