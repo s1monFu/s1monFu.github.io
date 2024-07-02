@@ -2,17 +2,19 @@ User-agent: *
 
 Disallow: /categories/
 
+Disallow: /posts/rag2/
+
 Disallow: /posts/
 
 Disallow: /tags/rag/
-
-Disallow: /posts/rag/
 
 Disallow: /tags/
 
 Disallow: /categories/tutorials/
 
 Disallow: /
+
+Disallow: /posts/rag/
 
 Disallow: /posts/toefl/
 

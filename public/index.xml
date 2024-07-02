@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 14:49:39 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 10:57:08 +0800</lastBuildDate>
     <atom:link href="https://s1monfu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expanding Beyond Basic Retrieval-Augmented Generation (RAG): Why and How</title>
+      <link>https://s1monfu.github.io/posts/rag2/</link>
+      <pubDate>Tue, 02 Jul 2024 10:57:08 +0800</pubDate>
+      <guid>https://s1monfu.github.io/posts/rag2/</guid>
+      <description>Expanding Beyond Basic Retrieval-Augmented Generation (RAG): Why and How&#xA;In my previous post on RAG, I introduced the concept and discussed its foundational aspects.</description>
+    </item>
     <item>
       <title>RAG: Why we need it and how to implement it</title>
       <link>https://s1monfu.github.io/posts/rag/</link>
