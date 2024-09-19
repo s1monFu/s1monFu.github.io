@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RAG on Simon(Hongyu) Fu</title>
-    <link>https://s1monfu.github.io/tags/rag/</link>
+    <link>http://localhost:1313/tags/rag/</link>
     <description>Recent content in RAG on Simon(Hongyu) Fu</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Tue, 02 Jul 2024 10:57:08 +0800</lastBuildDate>
-    <atom:link href="https://s1monfu.github.io/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expanding Beyond Basic Retrieval-Augmented Generation (RAG): Why and How</title>
-      <link>https://s1monfu.github.io/posts/rag2/</link>
+      <link>http://localhost:1313/posts/rag2/</link>
       <pubDate>Tue, 02 Jul 2024 10:57:08 +0800</pubDate>
-      <guid>https://s1monfu.github.io/posts/rag2/</guid>
+      <guid>http://localhost:1313/posts/rag2/</guid>
       <description>Expanding Beyond Basic Retrieval-Augmented Generation (RAG): Why and How&#xA;In my previous post on RAG, I introduced the concept and discussed its foundational aspects.</description>
     </item>
     <item>
       <title>RAG: Why we need it and how to implement it</title>
-      <link>https://s1monfu.github.io/posts/rag/</link>
+      <link>http://localhost:1313/posts/rag/</link>
       <pubDate>Thu, 20 Jun 2024 14:49:39 +0800</pubDate>
-      <guid>https://s1monfu.github.io/posts/rag/</guid>
+      <guid>http://localhost:1313/posts/rag/</guid>
       <description>Recently I have been working on a Research Agent project. The project is essentially a multi-agent system.</description>
     </item>
   </channel>

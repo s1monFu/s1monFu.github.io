@@ -1,18 +1,20 @@
 User-agent: *
 
+Disallow: /posts/mscs-1/
+
+Disallow: /posts/
+
+Disallow: /
+
 Disallow: /categories/
 
 Disallow: /posts/rag2/
-
-Disallow: /posts/
 
 Disallow: /tags/rag/
 
 Disallow: /tags/
 
 Disallow: /categories/tutorials/
-
-Disallow: /
 
 Disallow: /posts/rag/
 

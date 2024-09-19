@@ -2,39 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome, dear friend(or scraper)! on Simon(Hongyu) Fu</title>
-    <link>https://s1monfu.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome, dear friend(or scraper)! on Simon(Hongyu) Fu</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 10:57:08 +0800</lastBuildDate>
-    <atom:link href="https://s1monfu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Sep 2024 00:37:42 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMU MSCS 背景直观感受</title>
+      <link>http://localhost:1313/posts/mscs-1/</link>
+      <pubDate>Thu, 19 Sep 2024 00:37:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mscs-1/</guid>
+      <description>MSCS背景组成 今年MSCS的cohort大概有50人左右，其中中国人/华裔大概十几位。与大约一半的人有过交流，也大致了解了一下大家的背景。总体而言，大家的背景都非常多样&#xA;人种比例 第一个体现是人种比例（没有数据支持，只是个人感受）很多其他SCS下的program，印度人和中国人占比奇高。在MSCS下中国人和印度人的比例会相对低些，世界各个角落的人都有。甚至有个俄罗斯的兄弟，也不知道怎么拿的签证&#xA;学术背景 另外一个体现是学术背景。虽然大部分是本科刚毕业即入学的，不过也有工作甚至参军了几年后来入读的。有CS，DS，Math和其他专业背景的。有想继续读博，也有直接找工的。与大家交流下来感觉都各有强项/特色&#xA;而在被录取的中国人/华裔里，美国本科的比例很高。之后会开题分享我自己的background供大家参考&#xA;感觉这种多样性和MSCS的项目特色有关。直观感受MSCS的自由度很高。不管你是想走什么track，都可以自己适配想学的课程。</description>
+    </item>
     <item>
       <title>Expanding Beyond Basic Retrieval-Augmented Generation (RAG): Why and How</title>
-      <link>https://s1monfu.github.io/posts/rag2/</link>
+      <link>http://localhost:1313/posts/rag2/</link>
       <pubDate>Tue, 02 Jul 2024 10:57:08 +0800</pubDate>
-      <guid>https://s1monfu.github.io/posts/rag2/</guid>
+      <guid>http://localhost:1313/posts/rag2/</guid>
       <description>Expanding Beyond Basic Retrieval-Augmented Generation (RAG): Why and How&#xA;In my previous post on RAG, I introduced the concept and discussed its foundational aspects.</description>
     </item>
     <item>
       <title>RAG: Why we need it and how to implement it</title>
-      <link>https://s1monfu.github.io/posts/rag/</link>
+      <link>http://localhost:1313/posts/rag/</link>
       <pubDate>Thu, 20 Jun 2024 14:49:39 +0800</pubDate>
-      <guid>https://s1monfu.github.io/posts/rag/</guid>
+      <guid>http://localhost:1313/posts/rag/</guid>
       <description>Recently I have been working on a Research Agent project. The project is essentially a multi-agent system.</description>
     </item>
     <item>
       <title>My Journey and Tips on Scoring TOEFL 119/120: An International Student&#39;s Perspective</title>
-      <link>https://s1monfu.github.io/posts/toefl/</link>
+      <link>http://localhost:1313/posts/toefl/</link>
       <pubDate>Fri, 14 Jun 2024 18:24:17 +0800</pubDate>
-      <guid>https://s1monfu.github.io/posts/toefl/</guid>
+      <guid>http://localhost:1313/posts/toefl/</guid>
       <description>How to Painless Learn TOEFL and Score 119 out of 120 A few months ago, I took the TOEFL test and achieved a remarkable score of 119 out of 120, all without intensive study specifically for the exam.</description>
     </item>
     <item>
       <title>Markdown Cheat Sheet</title>
-      <link>https://s1monfu.github.io/posts/markdown-cheat-sheet/</link>
+      <link>http://localhost:1313/posts/markdown-cheat-sheet/</link>
       <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
-      <guid>https://s1monfu.github.io/posts/markdown-cheat-sheet/</guid>
+      <guid>http://localhost:1313/posts/markdown-cheat-sheet/</guid>
       <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
     </item>
   </channel>
