@@ -3,7 +3,7 @@ title: "CMU MSCS 背景直观感受"
 date: 2024-09-19T00:37:42-04:00
 draft: false # Set 'false' to publish
 tableOfContents: false # Enable/disable Table of Contents
-description: ''
+description: '这篇短文记录了我对MSCS项目同学组成的直观感受'
 categories:
   - 
 tags:
