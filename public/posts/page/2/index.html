@@ -5,12 +5,12 @@
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Tags</title>
+<title>Post</title>
 <meta
   name="description"
-  content="Search my posts by tags"
+  content=""
 />
-<link rel="canonical" href="http://localhost:1313/tags/" />
+<link rel="canonical" href="http://localhost:1313/posts/" />
 <link rel="robots" href="/robots.txt" />
 
 <link rel="icon" type="image/x-icon" href="/icons/favicon.ico" />
@@ -57,7 +57,7 @@
     </li>
     
     <li>
-      <a href="/posts" class="">
+      <a href="/posts" class=" active ">
         posts
       </a>
     </li>
@@ -69,7 +69,7 @@
     </li>
     
     <li>
-      <a href="/tags" class=" active ">
+      <a href="/tags" class="">
         Tags
       </a>
     </li>
@@ -133,56 +133,80 @@
 </script>
     </div>
   
-    <main id="content"> 
+    <main id="content">
+
+
+
 
 <div class="flex flex-col gap-1">
-  <h1 class="title-small">
+  <h1 class="text-2xl font-extrabold">
     
-      Tags
+      Latest Posts
     
-  </h1>
-
+    </h1>
   
-    <p>Search my posts by tags</p>
-
   
 </div>
 
-<section class="py-10 flex flex-col gap-10">
-  <ul class="taxonomy-list">
-     
-      <li>
-        <a href=" http://localhost:1313/tags/autokeras/ ">
-          AutoKeras (1)
-        </a>
-      </li>
-     
-      <li>
-        <a href=" http://localhost:1313/tags/rag/ ">
-          RAG (2)
-        </a>
-      </li>
-     
-      <li>
-        <a href=" http://localhost:1313/tags/study/ ">
-          Study (1)
-        </a>
-      </li>
-     
-      <li>
-        <a href=" http://localhost:1313/tags/toefl/ ">
-          Toefl (1)
-        </a>
-      </li>
-     
-      <li>
-        <a href=" http://localhost:1313/tags/markdown/ ">
-          Markdown (1)
-        </a>
-      </li>
+<section class="flex flex-col gap-10">
+  
+    <article class="flex flex-col gap-1">
+  <h1>
+    <a href="http://localhost:1313/posts/markdown-cheat-sheet/">Markdown Cheat Sheet</a>
+  </h1>
+  
+  <span class="date">
+    <time datetime="2022-08-27 09:16:45 &#43;0000 UTC" title='Sat, Aug 27, 2022, 9:16 AM UTC'>
+      27/08/2022
+    </time>
+  </span>
+
+  <div class="description">
     
-  </ul>
+      Markdown is a powerful tool for creating rich text using a plain text editor. This cheatsheet is a quick reference for Markdown syntax.
+    
+  </div>
+
+  <div class="mt-2">
+    <a class="read-more" href="http://localhost:1313/posts/markdown-cheat-sheet/">
+      Read more
+      <span class="w-4 h-4 stroke-2">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+</svg>
+
+      </span>
+    </a>
+  </div>
+</article>
+
+  
 </section>
+
+
+  
+
+<div class="pb-10 grid grid-cols-2 font-semibold">
+  
+  <div>
+    
+      <a href="/posts/" class="pagination-button">
+        <span class="h-4 w-4 stroke-2"> <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+</svg>
+ </span>
+        Newer Posts
+      </a>
+    
+  </div>
+
+  
+  <div class="flex justify-end">
+    
+  </div>
+</div>
+
+
 
 
     </main><footer class="pt-5 pb-10 grid gap-3 sm:grid-cols-2">

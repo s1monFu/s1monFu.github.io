@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AutoKeras, TensorFlow on Simon(Hongyu) Fu</title>
+    <link>http://localhost:1313/tags/autokeras-tensorflow/</link>
+    <description>Recent content in AutoKeras, TensorFlow on Simon(Hongyu) Fu</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Thu, 31 Oct 2024 13:55:03 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/autokeras-tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AutoKeras - A Quick Introduction and Demostration</title>
+      <link>http://localhost:1313/posts/autokeras/</link>
+      <pubDate>Thu, 31 Oct 2024 13:55:03 -0400</pubDate>
+      <guid>http://localhost:1313/posts/autokeras/</guid>
+      <description>Getting started with AutoKeras AutoKeras is an open-source AutoML library built on top of TensorFlow, designed to simplify the process of building and training deep learning models without requiring extensive knowledge of model architecture and hyperparameter tuning.</description>
+    </item>
+  </channel>
+</rss>

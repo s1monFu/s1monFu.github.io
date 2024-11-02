@@ -1,20 +1,24 @@
 User-agent: *
 
-Disallow: /posts/mscs-1/
+Disallow: /tags/autokeras/
 
-Disallow: /posts/
-
-Disallow: /
+Disallow: /posts/autokeras/
 
 Disallow: /categories/
 
-Disallow: /posts/rag2/
-
-Disallow: /tags/rag/
+Disallow: /posts/
 
 Disallow: /tags/
 
 Disallow: /categories/tutorials/
+
+Disallow: /
+
+Disallow: /posts/mscs-1/
+
+Disallow: /posts/rag2/
+
+Disallow: /tags/rag/
 
 Disallow: /posts/rag/
 
